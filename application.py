@@ -17,5 +17,5 @@ df = pubmed.articles_df
 #%%
 gpt = OpenAiManager()
 gpt.open_web()
-gpt.chatgpt_client(df.loc[0,'text_from_pmc'],'Is rapamycin increasing lifespan write probability of that is the true from 0 to 1?',provider_my='FakeGpt')
+gpt.chatgpt_client(df.loc[0,'text_from_pmc'],'Is rapamycin increasing lifespan rate from 0 to 1?',provider_my='FakeGpt')
 gpt.close_web()
