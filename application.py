@@ -1,6 +1,6 @@
 #%%
 from utils_my.preprocesser import PubMedSearcher
-from config.config import PubmedSearcherConfig,GptConfig
+from config.config import PubmedSearcherConfig
 from utils_my.gpt_manager import OpenAiManager
 import pandas as pd
 import g4f
