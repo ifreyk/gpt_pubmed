@@ -9,3 +9,9 @@ This repository provides a tool for downloading articles from PubMed and impleme
 ```
 git clone https://github.com/ifreyk/gpt_pubmed.git
 ```
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Open application.py:
+Follow the code
