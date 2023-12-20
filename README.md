@@ -6,3 +6,6 @@ This repository provides a tool for downloading articles from PubMed and impleme
 - **gpt_manager.py**: Extract valuable insights from the downloaded articles by posing questions to the system.
 ## Getting Started
 1. Clone the repository:
+```
+git clone https://github.com/ifreyk/gpt_pubmed.git
+```
