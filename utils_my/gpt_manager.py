@@ -1,5 +1,4 @@
 #%%
-from config.config import GptConfig
 from undetected_chromedriver import Chrome, ChromeOptions
 import g4f
 from g4f.Provider import (
