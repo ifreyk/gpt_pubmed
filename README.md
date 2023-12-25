@@ -1,4 +1,4 @@
-![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/6f2d2e0f-fe76-4e22-8d80-baa78a1e11c1)# PubMed Article Downloader and Question Answering
+# AutoInsight: AI-Powered Article Analysis Project
 ## Introduction
 Handling a vast number of articles can be time-consuming to analyze. To address this challenge, you can delegate the article analysis task to a Large Language Model (LLM). The LLM will read the articles and provide answers to your specific questions. This project is designed to streamline the process, replacing traditional search and analysis methods to save valuable time.
 This repository provides a tool for downloading articles from PubMed and implementing automatic question-answering based on the content of these articles. The goal is to streamline the process of retrieving relevant scientific literature and extracting valuable information through a question-answering system.
