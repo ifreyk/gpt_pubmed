@@ -28,6 +28,8 @@ Real data
 ### Features
 - **preprocesser.py**: Fetch articles from PubMed using queries.
 - **gpt_manager.py**: Extract valuable insights from the downloaded articles by posing questions to the system.
+## Discussion
+This represents a basic implementation of the concept for automated article analysis, leveraging a free LLM to address the problem. To enhance analysis results and program performance, future iterations may involve employing a paid version of GPT. This could mitigate errors related to requests through the g4f library. Additionally, an alternative approach could be explored, incorporating vector databases and Langhain librarie for further optimization and perfomance comparison
 ### Getting Started
 1. Clone the repository:
 ```
