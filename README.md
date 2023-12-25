@@ -8,8 +8,14 @@ To test the program, I entered the query _"rapamycin in aging"_ and downloaded *
 - _Is rapamycin increasing lifespan?_
 - _What animals was the study conducted on?_
 - _Which dosages of treatment (and other parameters you consider relevant) were presented in papers?_
-Here finall results for each question
+### Here finall results for each question
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/ace93127-2320-4fa1-b055-d0dad5ce662e)
+### Exmaple 1 (https://pubmed.ncbi.nlm.nih.gov/31761958/)
+Answer from LLM
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/0b523c42-856c-4bd1-9388-95043d044146)
+Real data
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/d73db14e-f87c-4842-9b66-bcc7af9dbcd6)
+
 
 ### Features
 - **preprocesser.py**: Fetch articles from PubMed using queries.
