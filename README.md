@@ -26,7 +26,7 @@ Answer from LLM
 Real data
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/16175761-e8f1-41a7-9030-aaa4a1c6b7a9)
 ## Discussion
-This represents a basic implementation of the concept for automated article analysis, leveraging a free LLM to address the problem. To enhance analysis results and program performance, future iterations may involve employing a paid version of GPT. This could mitigate errors related to requests through the g4f library. Additionally, an alternative approach could be explored, incorporating vector databases and Langhain librarie for further optimization and perfomance comparison
+This represents a basic implementation of the concept for automated article analysis, leveraging a free LLM to address the problem. To enhance analysis results and program performance, future iterations may involve employing a paid version of GPT. This could mitigate errors related to requests through the g4f library. Additionally, an alternative approach could be explored, incorporating vector databases and Langhain library for further optimization and perfomance comparison
 ### Features
 - **preprocesser.py**: Fetch articles from PubMed using queries.
 - **gpt_manager.py**: Extract valuable insights from the downloaded articles by posing questions to the system.
