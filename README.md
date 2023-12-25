@@ -4,6 +4,11 @@ Handling a vast number of articles can be time-consuming to analyze. To address 
 This repository provides a tool for downloading articles from PubMed and implementing automatic question-answering based on the content of these articles. The goal is to streamline the process of retrieving relevant scientific literature and extracting valuable information through a question-answering system.
 ## Results
 To address this challenge, you must tackle two key issues: downloading articles from a database and analyzing them using LLM. The **PubMedSearcher** class handles the first task, finding the necessary number of relevant articles based on your search query and downloading the full text for free articles. The second challenge is addressed by the **OpenAiManager** class, which takes the full text of the article or abstract, along with the question you want to answer, and returns the answer to the question.
+To test the program, I entered the query _"rapamycin in aging"_ and downloaded **200** articles, for which I asked LLM to answer the following questions:
+- _Is rapamycin increasing lifespan?_
+- _What animals was the study conducted on?_
+- _Which dosages of treatment (and other parameters you consider relevant) were presented in papers?_
+Here finall results for each question
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/ace93127-2320-4fa1-b055-d0dad5ce662e)
 
 ### Features
