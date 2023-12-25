@@ -15,6 +15,8 @@ Answer from LLM
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/0b523c42-856c-4bd1-9388-95043d044146)
 Real data
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/d73db14e-f87c-4842-9b66-bcc7af9dbcd6)
+### Exmaple 2 ([https://pubmed.ncbi.nlm.nih.gov/31761958/](https://pubmed.ncbi.nlm.nih.gov/28374166/))
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/ecf30c2c-5125-4324-a7a2-bb0c5c922bf5)
 
 
 ### Features
