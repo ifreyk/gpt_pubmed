@@ -1,4 +1,4 @@
-# PubMed Article Downloader and Question Answering
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/6f2d2e0f-fe76-4e22-8d80-baa78a1e11c1)# PubMed Article Downloader and Question Answering
 ## Introduction
 Handling a vast number of articles can be time-consuming to analyze. To address this challenge, you can delegate the article analysis task to a Large Language Model (LLM). The LLM will read the articles and provide answers to your specific questions. This project is designed to streamline the process, replacing traditional search and analysis methods to save valuable time.
 This repository provides a tool for downloading articles from PubMed and implementing automatic question-answering based on the content of these articles. The goal is to streamline the process of retrieving relevant scientific literature and extracting valuable information through a question-answering system.
@@ -15,10 +15,16 @@ Answer from LLM
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/0b523c42-856c-4bd1-9388-95043d044146)
 Real data
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/d73db14e-f87c-4842-9b66-bcc7af9dbcd6)
-### Exmaple 2 ([https://pubmed.ncbi.nlm.nih.gov/31761958/](https://pubmed.ncbi.nlm.nih.gov/28374166/))
+### Exmaple 2 (https://pubmed.ncbi.nlm.nih.gov/28374166/)
+Answer from LLM
 ![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/ecf30c2c-5125-4324-a7a2-bb0c5c922bf5)
-
-
+Real data
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/1646dd2a-b4b2-49b1-8ff3-6c6d6bcf744a)
+### Exmaple 3 (https://pubmed.ncbi.nlm.nih.gov/26442901/)
+Answer from LLM
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/da861e8f-2c69-4c99-97d8-4bfafd8d7791)
+Real data
+![image](https://github.com/ifreyk/gpt_pubmed/assets/52207629/16175761-e8f1-41a7-9030-aaa4a1c6b7a9)
 ### Features
 - **preprocesser.py**: Fetch articles from PubMed using queries.
 - **gpt_manager.py**: Extract valuable insights from the downloaded articles by posing questions to the system.
